@@ -8,7 +8,7 @@
 ## :busts_in_silhouette:멤버
 - :bust_in_silhouette:퓨즈님: https://github.com/hodu-angel
 - :bust_in_silhouette:현규님: https://github.com/baka9131
-- :bust_in_silhouette:혁진님: 
+- :bust_in_silhouette:혁진님: https://github.com/brownglasses
 - :bust_in_silhouette:정민님: https://github.com/okm1172
 <br>
 
