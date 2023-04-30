@@ -6,10 +6,20 @@
 <br>
 
 ## :busts_in_silhouette:멤버
-- :bust_in_silhouette:퓨즈님: https://github.com/hodu-angel
-- :bust_in_silhouette:현규님: https://github.com/baka9131
-- :bust_in_silhouette:혁진님: https://github.com/brownglasses
-- :bust_in_silhouette:정민님: https://github.com/okm1172
+- :bust_in_silhouette:퓨즈님:
+[![github](https://img.shields.io/badge/GitHub-663399?style=flat&logo=GitHub&logoColor=white)](https://github.com/hodu-angel)
+[![blog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@hodu_angel)
+
+- :bust_in_silhouette:현규님:
+[![github](https://img.shields.io/badge/GitHub-663399?style=flat&logo=GitHub&logoColor=white)](https://github.com/baka9131)
+[![blog](https://img.shields.io/badge/Tistory-343A40?style=flat&logo=Tistory&logoColor=white)](https://baka9131.tistory.com/)
+
+- :bust_in_silhouette:혁진님:
+[![github](https://img.shields.io/badge/GitHub-663399?style=flat&logo=GitHub&logoColor=white)](https://github.com/brownglasses)
+
+- :bust_in_silhouette:정민님:
+[![github](https://img.shields.io/badge/GitHub-663399?style=flat&logo=GitHub&logoColor=white)](https://github.com/okm1172)
+
 <br>
 
 ## :bulb:미팅 규칙
@@ -24,4 +34,8 @@
   > 각자 생각해 오기로한 프로젝트들 브리핑.<br>
   > 혁진님, 정민님 다음 주(23.05.01)까지 `MVVM패턴, Provider`에 대한 발표 준비
 <br>
-.
+
+- 2주 차 (2023.05.01 ~ 2023.05.08)
+  > 혁진님, 정민님 `패턴, Provider` 발표<br>
+  > 들어갈 기능에 대해 의논.<br>
+<br>
