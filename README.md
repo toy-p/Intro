@@ -19,6 +19,7 @@
 [![blog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@brownglasses)
 - :bust_in_silhouette:정민님:
 [![github](https://img.shields.io/badge/GitHub-663399?style=flat&logo=GitHub&logoColor=white)](https://github.com/okm1172)
+[![blog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@suerte_0)
 
 <br>
 
