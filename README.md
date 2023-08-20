@@ -30,8 +30,9 @@
 <br><br>
 
 ## 개인 Clone Coding Repository
-현규님: 개인 clone Coding repository url <br>
-> cloneCoding reference url / thumbnail <br>
+현규님: https://github.com/baka9131/project-dusty-dust <br>
+> <img width="300" alt="image" src="https://github.com/toy-p/Intro/assets/90611410/a92e69e9-a32c-4464-a475-88ecc1587671">
+ <br>
 
 혁진님: 개인 clone Coding repository url <br>
 > cloneCoding reference url / thumbnail <br>
