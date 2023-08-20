@@ -16,7 +16,7 @@
 
 - :bust_in_silhouette:혁진님:
 [![github](https://img.shields.io/badge/GitHub-663399?style=flat&logo=GitHub&logoColor=white)](https://github.com/brownglasses)
-[![blog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@brownglasses)
+[![blog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@lhj11692)
 - :bust_in_silhouette:정민님:
 [![github](https://img.shields.io/badge/GitHub-663399?style=flat&logo=GitHub&logoColor=white)](https://github.com/okm1172)
 [![blog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@suerte_0)
@@ -34,7 +34,7 @@
 > <img width="300" alt="image" src="https://github.com/toy-p/Intro/assets/90611410/a92e69e9-a32c-4464-a475-88ecc1587671">
  <br>
 
-혁진님: 개인 clone Coding repository url <br>
+혁진님: https://github.com/brownglasses/MinecraftCommandBook <br>
 > cloneCoding reference url / thumbnail <br>
 
 정민님: 개인 clone Coding repository url <br>
