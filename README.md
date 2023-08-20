@@ -29,6 +29,19 @@
 - 새로 알게 된 점, 혹은 좋은 정보들을 공유해 주시면 감사드립니다^-^!
 <br><br>
 
+## 개인 Clone Coding Repository
+현규님: 개인 clone Coding repository url <br>
+> cloneCoding reference url / thumbnail <br>
+
+혁진님: 개인 clone Coding repository url <br>
+> cloneCoding reference url / thumbnail <br>
+
+정민님: 개인 clone Coding repository url <br>
+> cloneCoding reference url / thumbnail <br>
+
+<br><br>
+
+## Pocket-map
 ## :chart_with_upwards_trend:n 주차 진행 상황
 - 1주 차 (2023.04.24 ~ 2023.05.01)
   > 자기소개, 미팅 목적 브리핑, 미팅 규칙 설명, 미팅 일정 의논.<br>
@@ -65,4 +78,8 @@
 
 - 7주 차 (2023.06.19 ~ 2023.06.26)
   > 각 화면에서 공통 위젯 분리<br>
+<br>
+
+- 8주 차 (2023.08.01 ~ 2023.08.20)
+  > 개발 마무리 및 배포 준비<br>
 <br>
