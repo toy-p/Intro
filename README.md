@@ -35,7 +35,8 @@
  <br>
 
 혁진님: https://github.com/brownglasses/MinecraftCommandBook <br>
-> cloneCoding reference url / thumbnail <br>
+> ![image](https://github.com/toy-p/Intro/assets/95395563/9fb02f81-e062-4fb4-833a-d637e51803dd)
+
 
 정민님: 개인 clone Coding repository url <br>
 > cloneCoding reference url / thumbnail <br>
