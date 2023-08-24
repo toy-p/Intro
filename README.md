@@ -40,7 +40,7 @@
 <br>
 
 
-정민님: 개인 clone Coding repository url <br>
+정민님: https://github.com/okm1172/DeliveryApp <br>
 > cloneCoding reference url / thumbnail <br>
 
 <br><br>
